@@ -1,0 +1,25 @@
+{
+  "name": "aulagit",
+  "version": "1.0.0",
+  "description": "Aula 06",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiomaximusjs/aulaGIT.git"
+  },
+  "author": "Caio Maximus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiomaximusjs/aulaGIT/issues"
+  },
+  "homepage": "https://github.com/caiomaximusjs/aulaGIT#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
