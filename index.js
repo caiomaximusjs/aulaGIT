@@ -23,4 +23,4 @@ app.post("/subscription", (req, res) => {
   res.redirect("/")
 })
 
-app.listen(3000, console.log(`servidor rodando em http://localhost:${port}`));
+app.listen(port, console.log(`servidor rodando em http://localhost:${port}`));
